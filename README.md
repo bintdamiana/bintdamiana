@@ -14,7 +14,7 @@ Linguist & tech strategist exploring how code can bridge languages, cultures, an
 
 💡 Focus Areas
 
-AI Localization | SEO & Digital Strategy | Education Tech | Cybersecurity (Early)
+AI Localization | SEO & Digital Strategy | Education Tech | Cybersecurity (Early) |
 Multilingual Access | Language Revitalization | Community Driven Design
 
 💬 Let’s connect on ethical tech, language, storytelling, and nature-inspired systems.
