@@ -13,6 +13,7 @@ Linguist & tech strategist exploring how code can bridge languages, cultures, an
 🔹 Thought Flo Wellness &copy; — Language learning through storytelling and education technology → thoughtflowellness.org
 
 💡 Focus Areas
+
 AI Localization | SEO & Digital Strategy | Education Tech | Cybersecurity (Early)
 Multilingual Access | Language Revitalization | Community Driven Design
 
