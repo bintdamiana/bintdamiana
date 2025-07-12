@@ -1,13 +1,15 @@
-👋 Hey there, I’m Sahara Al-Madi
+🔹 Hey, I’m Sahara 🔹 
+Linguist & tech strategist exploring how code can bridge languages, cultures, and communities. I build inclusive, multilingual digital experiences at the intersection of education, language, and ethical technology.
 
-I’m interested in language technology, linguistics, education tech, and inclusive communication design
+🔸 Currently exploring and learning to apply AI and NLP in multilingual, cross-cultural projects. I’m working toward my CompTIA A+ (Aug 2025) and plan to pursue Network+ and Security+ next.
 
-I’m currently learning how to integrate NLP tools and AI models into multilingual digital projects
+🌿 Projects
+🔹 EarthLoom — SoCal Native Plant Explorer
+🔹 RUYA — Experimental multilingual FAQ match bot for intercultural understanding
+🔹 Thought Flo Wellness — Language learning through storytelling and education technology → thoughtflowellness.org
 
-I’m looking to collaborate on projects involving language revitalization, ethical AI, multilingual SEO, and cross-cultural storytelling
+💡 Focus Areas
+AI Localization | SEO & Digital Strategy | Education Tech | Cybersecurity (Early)
+Multilingual Access | Language Revitalization | Community Driven Design
 
-Pronouns: she/her
-
-⚡ Fun fact: I'm interested in the correlation between storytelling and language learning. I’m also currently building RUYA: an experimental multilingual chatbot designed to support intercultural understanding and multilingual FAQ systems
-
-💬 Ask me about: language revitalization, AI in linguistics, wellness in tech, or my project Thought Flo Wellness (thoughtflowellness.org)
+💬 Let’s connect on ethical tech, language, storytelling, and nature-inspired systems.
