@@ -17,4 +17,4 @@ Linguist & tech strategist exploring how code can bridge languages, cultures, an
 AI Localization | SEO & Digital Strategy | Education Tech | Cybersecurity (Early) |
 Multilingual Access | Language Revitalization | Community Driven Design
 
-💬 Let’s connect on ethical tech, language, storytelling, and nature-inspired systems.
+💬 Let’s connect on ethical tech, language, storytelling, and nature inspired systems.
