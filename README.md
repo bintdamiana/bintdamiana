@@ -1,8 +1,8 @@
 🔹 Hey, I’m Sahara 🔹 
 
-Linguist & tech strategist exploring how code can bridge languages, cultures, and communities. I build inclusive, multilingual digital experiences at the intersection of education, language, and ethical technology.
+I'm a linguist & tech strategist exploring how code can bridge languages, cultures, and communities. I build inclusive, multilingual digital experiences at the intersection of education, language, and ethical technology.
 
-🔸 Currently exploring and learning to apply AI and NLP in multilingual, cross cultural projects. I’m working toward my CompTIA A+ (Aug 2025) and plan to pursue Network+ and Security+ next.
+🔸 Currently exploring and learning to apply AI and NLP in multilingual, cross cultural projects. I’m working toward my CompTIA A+ (Sept 2025) and plan to pursue Network+ and Security+ next.
 
 🌿 Projects
 
