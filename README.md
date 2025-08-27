@@ -6,6 +6,10 @@ I'm a linguist & tech strategist exploring how code can bridge languages, cultur
 
 🌿 Projects
 
+🔹 Phonix - a free, AI powered tool for learning phonetics and the International Phonetic Alphabet.
+
+🔹 Mitote - A language preservation project teaching AI to pronounce and explain Nahuatl rooted words in Mexican Spanish.
+
 🔹 EarthLoom — SoCal Native Plant Explorer
 
 🔹 RUYA — Experimental multilingual FAQ match bot for intercultural understanding
