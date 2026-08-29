@@ -6,8 +6,8 @@ Computational linguist and AI governance researcher exploring how machine intell
 
 ### 🔸 Background & Affiliations
 * **Founder**, **[Linguistic Security Institute (LSI)](https://linguisticsecurityinstitute.github.io/)** — Advancing open-source metrics for dialectal integrity, bias auditing, and cross-lingual security protocols.
-* **Education** — Incoming MS Computer Science student at the Georgia Institute of Technology
-BA Applied Linguistics, University of California, Los Angeles
+* **Education** — Incoming MS Computer Science student at the Georgia Institute of Technology with a
+BA in Applied Linguistics from the University of California, Los Angeles
 * **Experience** — Previously built multilingual AI datasets and evaluation frameworks at Google and SoundHound AI.
 
 ---
