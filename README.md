@@ -1,4 +1,4 @@
-🔹 Hey, I’m Sahara 🔹
+🔹 Hey, I’m Sahara! 🔹
 Computational linguist and AI governance researcher exploring how machine intelligence can respect cultural, dialectal, and linguistic boundaries. I build inclusive, multilingual security toolkits and cross-lingual NLP systems at the intersection of AI safety, education, and language preservation.
 
 🔸 Founder of the **[Linguistic Security Institute (LSI)](https://linguisticsecurityinstitute.github.io/)**, advancing open-source metrics for dialectal integrity, bias auditing, and cross-lingual security protocols. Incoming MS Computer Science student at the Georgia Institute of Technology (BA Applied Linguistics, UCLA). Previously built multilingual AI datasets and evaluation frameworks at Google and SoundHound AI.
